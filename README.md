@@ -138,20 +138,18 @@ SP25-CS-GY-6513-Team-14/
 
 *Interactive demonstration of the Streamlit dashboard with real-time predictions and analytics*
 
-### 🎨 Dashboard Screenshots
+### 🎨 Some Results
 
 <table>
 <tr>
 <td width="50%">
 
-**📊 Analytics Dashboard**
 ![Analytics Dashboard](imgs/results_1.png)
 *Interactive analytics with funnel analysis, category performance, and temporal trends*
 
 </td>
 <td width="50%">
 
-**🤖 Prediction Interface**  
 ![Prediction Interface](imgs/results_2.png)
 *Real-time purchase prediction using trained Random Forest model*
 
