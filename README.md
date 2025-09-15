@@ -144,14 +144,12 @@ SP25-CS-GY-6513-Team-14/
 <tr>
 <td width="50%">
 
-![Analytics Dashboard](imgs/results_1.png)
-*Interactive analytics with funnel analysis, category performance, and temporal trends*
+![Analytics](imgs/results_1.png)
 
 </td>
 <td width="50%">
 
-![Prediction Interface](imgs/results_2.png)
-*Real-time purchase prediction using trained Random Forest model*
+![Analytics](imgs/results_2.png)
 
 </td>
 </tr>
