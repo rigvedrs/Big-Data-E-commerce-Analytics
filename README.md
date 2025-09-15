@@ -6,6 +6,10 @@
 ### 1. Install ASDF
 If you don't have ASDF installed, [Read the installation guide](asdf.md)
 
+https://github.com/user-attachments/assets/b1a8bb3c-0824-445e-9189-e1cc9af2ff7a
+
+
+
 ### 2. Install Required Plugins
 ```bash
 asdf plugin add python
