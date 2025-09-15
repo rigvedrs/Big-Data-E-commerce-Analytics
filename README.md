@@ -19,7 +19,7 @@ This project leverages **big data technologies** and **machine learning** to ana
 - 🤖 **Build** ML classification model for purchase prediction
 - 📱 **Develop** interactive dashboard for real-time insights
  
-## 🏗️ Architecture & Technologies
+## 🏗️ Architecture & Technologies 
 
 <div align="center">
 
