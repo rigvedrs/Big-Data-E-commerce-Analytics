@@ -18,6 +18,31 @@ This project leverages **big data technologies** and **machine learning** to ana
 - ⏰ **Identify** temporal shopping trends and peak hours
 - 🤖 **Build** ML classification model for purchase prediction
 - 📱 **Develop** interactive dashboard for real-time insights
+
+## 📸 Visual Results
+
+### 📹 Live Demo of App
+
+[![Demo Video](https://img.shields.io/badge/🎥_Watch_Demo-Click_Here-red?style=for-the-badge)](https://github.com/user-attachments/assets/b1a8bb3c-0824-445e-9189-e1cc9af2ff7a)
+
+*Interactive demonstration of the Streamlit dashboard with real-time predictions and analytics*
+
+### 🎨 Some Results
+
+<table>
+<tr>
+<td width="50%">
+
+![Analytics](imgs/results_1.png)
+
+</td>
+<td width="50%">
+
+![Analytics](imgs/results_2.png)
+
+</td>
+</tr>
+</table>
  
 ## 🏗️ Architecture & Technologies 
 
@@ -129,31 +154,6 @@ SP25-CS-GY-6513-Team-14/
 #### ⏰ Peak Shopping Hours
 - **Prime Time**: 16:00 (4 PM)
 - **Recommendation**: Flash sales 13:00-16:00 for maximum impact
-
-## 📸 Visual Results
-
-### 📹 Live Demo of App
-
-[![Demo Video](https://img.shields.io/badge/🎥_Watch_Demo-Click_Here-red?style=for-the-badge)](https://github.com/user-attachments/assets/b1a8bb3c-0824-445e-9189-e1cc9af2ff7a)
-
-*Interactive demonstration of the Streamlit dashboard with real-time predictions and analytics*
-
-### 🎨 Some Results
-
-<table>
-<tr>
-<td width="50%">
-
-![Analytics](imgs/results_1.png)
-
-</td>
-<td width="50%">
-
-![Analytics](imgs/results_2.png)
-
-</td>
-</tr>
-</table>
 
 ## 📈 Key Findings
 
